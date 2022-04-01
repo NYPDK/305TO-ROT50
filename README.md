@@ -1,4 +1,4 @@
-#527QT - ROT47
+# 527QT - ROT47
 A ROT Cipher with a 47 char rotation. (94 total characters)
 
 ### The following two lines are the interchange of eachother in ROT50:
