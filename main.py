@@ -1,7 +1,7 @@
 import string
 
 def rot(text):
-    n_a = dict(enumerate(string.printable))
+    n_a = dict(enumerate(string.printable[:-4]))
     a_n = {v: k for k, v in n_a.items()}
     new_word = []
     for x in text:
